@@ -1,0 +1,2 @@
+# DiniSQL
+Mini Distributed SQL
